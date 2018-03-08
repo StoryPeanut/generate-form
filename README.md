@@ -1,6 +1,6 @@
 # generate-from
 
-> A Vue.js project
+> 基于element-ui 2实现的一个表单可配组件
 
 ## Build Setup
 
